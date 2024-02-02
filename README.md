@@ -1,2 +1,1 @@
-# leetcode_solution_ruby
-the leet code solution with ruby
+this is the repo to record my solution to leetcode question in Ruby language
