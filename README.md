@@ -1,1 +1,1 @@
-this is the repo to record my solution to leetcode question in Ruby language
+This repository is dedicated to recording my solutions to LeetCode questions, implemented in Ruby

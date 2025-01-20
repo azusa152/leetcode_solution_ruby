@@ -1,8 +1,6 @@
 # Intuition
 <!-- Describe your first thoughts on how to solve this problem. -->
-To create the hash with the num as key and count as value.
-Then sory this hash by value and try to deduct from t.
-Then select the count > 0 from hash
+Create a hash with the numbers as keys and their counts as values. Then, sort this hash by its values and attempt to deduct from t. Finally, select the entries from the hash where the count is greater than 0.
 
 # Complexity
 - Time complexity:

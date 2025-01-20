@@ -1,8 +1,6 @@
 # Intuition
 <!-- Describe your first thoughts on how to solve this problem. -->
-To create a hash map to store the element with its row and col index
-And create 2 array, one is for col and the other is for row.
-The arr will store the frequency that the element has been iterated.
+Create a hash map to store each element along with its row and column indices. Then, create two arrays: one for columns and one for rows. These arrays will track the frequency of how many times each element has been iterated.
 
 # Complexity
 - Time complexity:
